@@ -1,4 +1,4 @@
-import { BrowserRouter,Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Welcome from "./pages/Welcome";
 import Setup from "./pages/Setup";
 import Game from "./pages/Game";
